@@ -1,8 +1,6 @@
 # rotationsKoerper_manim
 
-## Infomationen  Rotationskörper
-Ein **Rotationskörper** ist ein geometrischer Körper, der entsteht, wenn eine zweidimensionale Fläche um eine Achse rotiert(in dem video expliziet die x-achse). Diese Rotation führt dazu, dass sich die Punkte der Fläche in einem dreidimensionalen Raum bewegen und eine geschlossene Oberfläche bilden.
-## Formel
+Ein einfaches Video fuer die schule zum veranschaulischen von Rotationskoerpern auf der x-achse
 
-## Quellen:
-
+# BUILD
+gehe in den Projektordner und und fuehre pip install -r requirements.txt aus sobald das passiert ist kann das video gebaut werden mit pip install -r requirements.txt
